@@ -2,7 +2,36 @@
 
 ## Practical exercise
 
-In the practical exercise you are asked to think about the way you interact with the things when commuting to the academy. We will take four (or five) steps to analyse this interaction and eventually distill one central term out of it. 
+**Part 1**
+Take five minutes to think about two different kind of situations:
+
+1. One that made you really feel at ease
+2. One that made you feel really uncomfortable 
+
+These have to be situations in which you were with other people.
+
+Think about what made you feel the way you felt:
+
+- What did you see? What did you miss?
+
+- How was your mind occupied? Were you conscious of your surroundings?
+
+- What was the situation and what was the 'role' you played? 
+
+- What was the influence of the other people, the objects and the surroundings?
+
+- ...
+
+**Part 2**
+Jot down the things you thought about in the first part.
+Be attentive changes:
+- did your mood change? 
+
+- did something in the world change?
+
+- ...
+
+Now try to come up with central abstract terms that describe these phenomena. Can you think about one term that more or less captures the whole relationship?
 
 
 ## Textual exercises
