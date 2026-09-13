@@ -28,7 +28,7 @@
     into the stars<br>
     <br>
     Which feast did spring<br>
-    from the heart at the wedding<br>
+    from a joyful heart<br>
     <br>
     I used to be <br>
     a pond of darkness<br>
