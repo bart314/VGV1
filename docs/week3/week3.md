@@ -24,7 +24,8 @@ Interestingly, Hartmut Rosa himself that his term 'Resonance' is used fundamenta
 
     There can be no doubt that the concept of resonance is a highly suitable metaphor for describing the qualities of relatinships, and that it moreover offers enormous potential for analyzing how human beings relate to the world in nearly every area of life. Merely employing it metaphorically, however, is not sufficient if we wish to conceptually and systematically establish resonance as a fundemental concept of social philosophy and a social-scientific analytical category on which to build a comprehensive sociology of human relationships to the world. (Rosa, 2019, p.164)
 
-## Examples
+## Case studies
+
 Who | What | Where
 --|--|--
 Meret Oppenheimer | A Woman's Work (1936) | [MoMa](https://www.moma.org/collection/works/80997)
