@@ -21,4 +21,4 @@ The processed text will be part of your exercises book.
 
 __Part 2: Writing__
 
-Given the discussion during our class, the examples we talked about and more that you can find below, create an object of your own that works as a metaphor. Make sure you also document the making process by using photos and / or movies. Also, make a *description* of the object and what it is conveying in a metaphorical way.
+During the practical exercise, we made a metaphorical object based on objects that you have brought to class. Make a textual description of this object in which you make clear what it is and what it stands for (in a metaphorical way). In your text, try to make use of the vocabulary that was introduced during class, or the theory that Lakoff is writing about. Also be sure to include references to other metaphorical objects in (contemporary) art.
