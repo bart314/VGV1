@@ -27,13 +27,14 @@ Interestingly, Hartmut Rosa himself that his term 'Resonance' is used fundamenta
 ## Examples
 Who | What | Where
 --|--|--
-Meret Oppenheimer | A Woman's Work | [MoMa](https://www.moma.org/collection/works/80997)
-Robert Rauschenberg | Bed | [MoMa](https://www.moma.org/collection/works/78712)
-Marcel Duchamp | Fountain | [Wikipedia](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
-Salvator Dalí | Lobster Telephone | [Wikipedia](https://en.wikipedia.org/wiki/Lobster_Telephone)
-Huma Bhabha | Bleekmen | [MoMa](https://www.moma.org/collection/works/143370)
-Irma Hünerfauth | Instead of Air | [irma-huenerfauth.de](https://www.irma-huenerfauth.de/en/occammensch.html)
-Svetlana Kopystiansky | Achitecton | [Centre Pompidou](https://www.centrepompidou.fr/fr/ressources/oeuvre/cXrxRp)
+Meret Oppenheimer | A Woman's Work (1936) | [MoMa](https://www.moma.org/collection/works/80997)
+Robert Rauschenberg | Bed (1955) | [MoMa](https://www.moma.org/collection/works/78712)
+Marcel Duchamp | Fountain (1917) | [Wikipedia](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
+Salvator Dalí | Lobster Telephone (1936) | [Wikipedia](https://en.wikipedia.org/wiki/Lobster_Telephone)
+Domestik | Lost (2016) | [Youtube](https://www.youtube.com/watch?v=tx3LkIEasaY)
+Huma Bhabha | Bleekmen (2010) | [MoMa](https://www.moma.org/collection/works/143370)
+Irma Hünerfauth | Statt Luft – Stadtluft (1971) | [irma-huenerfauth.de](https://www.irma-huenerfauth.de/en/occammensch.html)
+Svetlana Kopystiansky | Achitecton (1979) | [Centre Pompidou](https://www.centrepompidou.fr/fr/ressources/oeuvre/cXrxRp)
 
 
 ## Lectures
