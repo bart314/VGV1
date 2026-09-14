@@ -5,7 +5,13 @@
 
 For this week's practical exercise, we want you to bring an object to class. This should be a practical object you *like* to use, and use on a more or less daily basis. It should, however, *not* (or not per se) have a *sentimental value* for you. So you could e.g. bring a hammer that you like to work with, but not the hammer that you got from your father for your eighteenth birthday.
 
-During class, we will work on coming up with different descriptions of this object, and we will discuss what the most accurate description will be.
+- Lay the object that have have brought to class on the table in front of you.
+
+- Look around the room to all the objects that others have put there. Find an object that could be connected to your own object to create a new, metaphorical object.
+
+- Form pairs (or one group of three) based on these objects and make the methaphorical object or – preferably – objects.
+
+- Document and discuss the process and the end result.
 
 ## Textual exercises
 
